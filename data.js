@@ -9,7 +9,7 @@ export default [
             rating: 5.0,
             reviewCount: 6
         },
-        location: "Online",
+        location: "USA",
         openSpots: 0,
     },
     {
@@ -27,15 +27,15 @@ export default [
     },
     {
         id: 3,
-        title: "Group Mountain Biking",
-        description: "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
+        title: "Cooking Classes",
+        description: "Taking cooking classes and discover some italian dishes",
         price: 50,
-        coverImg: "mountain-bike.png",
+        coverImg: "cooking.png",
         stats: {
-            rating: 4.8,
-            reviewCount: 2
+            rating: 4.6,
+            reviewCount: 3
         },
-        location: "Norway",
+        location: "Online",
         openSpots: 3,
     }
 ]
